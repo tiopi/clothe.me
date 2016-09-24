@@ -22,7 +22,7 @@
                                 <frame key="frameInset" minY="20" width="375" height="647"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="t-shirt-153369_960_720" translatesAutoresizingMaskIntoConstraints="NO" id="0k0-bm-fHx">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="greyCardiganMacys" translatesAutoresizingMaskIntoConstraints="NO" id="0k0-bm-fHx">
                                 <frame key="frameInset" minX="116" minY="121" width="137" height="227"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -40,8 +40,8 @@
         </scene>
     </scenes>
     <resources>
+        <image name="greyCardiganMacys" width="400" height="489"/>
         <image name="man-in-business-suit" width="1542" height="1919"/>
         <image name="pants" width="360" height="720"/>
-        <image name="t-shirt-153369_960_720" width="660" height="720"/>
     </resources>
 </document>
